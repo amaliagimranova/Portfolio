@@ -218,9 +218,9 @@ header{
 }
 .skill .title-h3{
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
-.skill .description{
+.skill .discription{
     line-height: 150%;
 }
 
@@ -269,7 +269,7 @@ header{
     top: calc(50% - 60px);
 }
 .section-about{
-    padding-top: 107px;
+    padding-top: 105px;
 }
 .about {
     display: grid;
